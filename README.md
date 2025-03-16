@@ -27,7 +27,7 @@ This is a Python-based project that automatically captures a selfie using your s
 ### 1. Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/automatic-selfie-capturing.git
+git clone https://github.com/Rachana-Hegde/automatic-selfie-capturing.git
 ```  
 
 ### 2. Navigate to the Project Directory  
