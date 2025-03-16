@@ -4,11 +4,11 @@ This is a Python-based project that automatically captures a selfie using your s
 
 ## 🚀 Features  
 
-- ✅ **Automatic Face Detection** using Haar Cascade Classifier.  
-- ✅ **Hands-free Selfie Capture** when a face is detected.  
-- ✅ **Countdown Timer** before capturing to allow adjustments.  
-- ✅ **Saves Captured Image** with a timestamped filename.  
-- ✅ **Real-time Video Feed** with live detection feedback.  
+✅ **Automatic Face Detection** using Haar Cascade Classifier.  
+✅ **Hands-free Selfie Capture** when a face is detected.  
+✅ **Countdown Timer** before capturing to allow adjustments.  
+✅ **Saves Captured Image** with a timestamped filename.  
+✅ **Real-time Video Feed** with live detection feedback.  
 
 ## 🛠️ Technologies Used  
 
